@@ -6,8 +6,8 @@ To ask a questions, simply comment on the open issues for the upcoming shows. Al
 
 === Upcoming shows
 
-- https://github.com/sdaschner/live-qa-sessions/issues/2[Effective keyboard usage for developers^] on Wed, 22nd April, 6 pm CEST
 
 === Past shows
 
 - https://github.com/sdaschner/live-qa-sessions/issues/1[Effective Testing with Java^] on Wed, 8th April, 6 pm CEST
+- https://github.com/sdaschner/live-qa-sessions/issues/2[Effective keyboard usage for developers^] on Wed, 22nd April, 6 pm CEST
