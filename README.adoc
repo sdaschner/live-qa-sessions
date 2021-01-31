@@ -5,7 +5,7 @@ This is the repository to ask questions for upcoming live Q&amp;A sessions.
 To ask a questions, simply comment on the open issues for the upcoming shows. Also feel free to create an issue for topic suggestions.
 
 === Upcoming shows
-
+- https://github.com/sdaschner/live-qa-sessions/issues/5[Ask me anything^] on Thu, 4th February, 6 pm CEST
 
 === Past shows
 
